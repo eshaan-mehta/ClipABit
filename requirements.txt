@@ -1,0 +1,13 @@
+ffmpeg-python
+opencv-python
+whisper
+certifi
+torch
+torchvision
+transformers
+sentence-transformers
+ftfy
+regex
+Pillow
+numpy
+git+https://github.com/openai/CLIP.git
